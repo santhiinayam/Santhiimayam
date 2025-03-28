@@ -5,7 +5,7 @@
   <table>
     <tr>
       <th>Name:</th>
-      <td>Santhi.R</td>
+      <td>Abinaya.R</td>
     </tr>
     <tr>
       <th>Age:</th>
